@@ -1,7 +1,7 @@
-### Hi there 👋
-### Hi there 👋, my name is Mohamed Walid Hajoub
-#### welcome to my profile github
-![welcome to my profile github](https://github.com/mohamedwalidhajoub/mohamedwalidhajoub/blob/22c1683cae07009d0bcaf5c2bf0af15f7e6c1a96/be6918c5d9b9d3807c87f330656b8a41.jpg)
+
+# Hi there 👋, my name is Mohamed Walid Hajoub
+## welcome to my profile github
+![welcome to my profile github](https://github.com/mohamedwalidhajoub/mohamedwalidhajoub/blob/bf75c3231ec20b2fbb2b1d84619deedc77fe4009/b1.jpg)
 
 intelligence artificial | Machine learning | Web developer i’m currently in my first year of master degree Intelligent systems and the development of decision-making systems
 
