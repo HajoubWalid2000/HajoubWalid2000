@@ -1,6 +1,6 @@
 
 # Hi there 👋, my name is Mohamed Walid Hajoub
-## welcome to my profile github
+## welcome to my profile github ![Profile views](https://gpvc.arturio.dev/mohamedwalidhajoub)  
 
 #### intelligence artificial | Machin learning | Web developer i’m currently in my first year of master degree Intelligent systems and the development of decision-making systems
 
@@ -22,4 +22,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedwalidhajoub)  
 
-![Profile views](https://gpvc.arturio.dev/mohamedwalidhajoub)  
+
