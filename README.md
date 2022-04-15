@@ -2,7 +2,7 @@
 # Hi there 👋, my name is Mohamed Walid Hajoub
 ## welcome to my profile github
 
-intelligence artificial | Machin learning | Web developer i’m currently in my first year of master degree Intelligent systems and the development of decision-making systems
+#### intelligence artificial | Machin learning | Web developer i’m currently in my first year of master degree Intelligent systems and the development of decision-making systems
 
 
 ### Skills: Machine learning / neural network artificial / Big data / cloud computing / Java / python /JEE / Spring / Php / C / C++ / PLSQL / JS / HTML / CSS
