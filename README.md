@@ -10,15 +10,15 @@
 - 🔭 I’m currently working on this page.
 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohamedwalidhajoub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-walid-hajoub-b86483203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohamedwalidhaj)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HajoubWalid2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-walid-hajoub-b86483203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohamedwalidhaj)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedwalidhajoub&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedwalidhajoub)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HajoubWalid2000&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HajoubWalid2000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedwalidhajoub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HajoubWalid2000)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamedwalidhajoub)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HajoubWalid2000)  
 
 
