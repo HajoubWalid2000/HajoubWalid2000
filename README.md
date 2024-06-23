@@ -2,8 +2,7 @@
 # Hi there 👋, my name is Mohamed Walid Hajoub
 ## welcome to my profile github <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-#### PhD student in intelligence artificial | Machin learning engineer | Web developer | i'm currently professor of computer science
-
+#### PhD Researcher in AI | Enthusiastic Scientist | Specialist in ML and Computer Vision | Data Science Engineer.
 
 ### Skills: Machine learning / Artificial neural network / distributed artificial intelligence /Big Data / cloud computing / Java / python / Angular / Spring / Php / ReactJS / PLSQL / JS / HTML / CSS
 
